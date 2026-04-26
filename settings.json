@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "LifestealZMP.play.hosting",
+    "port": 15785,
     "version": "",
     "try-creative": false
   },
